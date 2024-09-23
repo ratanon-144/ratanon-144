@@ -1,16 +1,35 @@
-## Hi there 👋
+- 👋 Hi, I’m @ratanon-144
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=%20rathanon-dev&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Fri)](https://git.io/streak-stats)
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ratanon-144&show_icons=true)
 
-<!--
-**ratanon-144/ratanon-144** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ratanon-144v&layout=compact)
+ 
 
-Here are some ideas to get you started:
+<div>
+  <div>
+<!--     <p>Language</p> -->
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=c,cs,cpp,js,ts,py" />
+    </a>
+  </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div>
+<!--     <p>Framework</p> -->
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=materialui,mysql,nextjs,nginx,nodejs,sequelize,tensorflow,pytorch,opencv" />
+    </a>
+  </div>
+
+  <div>
+<!--     <p>Base System</p> -->
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=linux,windows,vscode,git,bash,docker,vim,yarn,postman" />
+    </a>
+  </div>
+</div>
+
+
+![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ratanon-144/&title=Profile%20Views)
+
